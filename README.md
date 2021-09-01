@@ -4,5 +4,4 @@
    - execute the run.bat file (for windows environment)
    - for linux/mac, the codebase isn't yet executable
 
-* demo
-   - ![alt text](https://firebasestorage.googleapis.com/v0/b/portfolio-projects-16bb0.appspot.com/o/Sorting-Visualizer.png?alt=media&token=61f6aaaa-f617-4477-a04c-90fd5c1eb2b2)
+![alt text](https://firebasestorage.googleapis.com/v0/b/portfolio-projects-16bb0.appspot.com/o/Sorting-Visualizer.png?alt=media&token=61f6aaaa-f617-4477-a04c-90fd5c1eb2b2)
